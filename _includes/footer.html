@@ -2,7 +2,7 @@
 
     <nav class="navbar navbar-default" role="footer">
     <div class="container">
-        <a class="navbar-brand" href="/">A Faithful Witness</a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">A Faithful Witness</a>
         <form class="navbar-form navbar-left" role="search">
           <div class="form-group">
             <input type="text" class="form-control" placeholder="">
@@ -10,10 +10,10 @@
           <button type="submit" class="btn btn-default">Search</button>
         </form>
         <ul class="nav navbar-nav pull-right">
-            <li><a href="/">Home</a></li>
-            <li><a href="/news">What's New</a></li>
-            <li><a href="/ebooks">Books</a></li>
-            <li><a href="/sitemap">Site Map</a></li>
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="{{ site.baseurl }}/news">What's New</a></li>
+            <li><a href="{{ site.baseurl }}/ebooks">Books</a></li>
+            <li><a href="{{ site.baseurl }}/sitemap">Site Map</a></li>
         </ul>
 
         <p class="navbar-text small"> © 2009-2014 DCP. All Rights Reserved. <br>
@@ -24,11 +24,11 @@
     </nav>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+    <script>window.jQuery || document.write('<script src="{{ site.baseurl }}/js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
 
-    <script src="js/vendor/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/js/vendor/bootstrap.min.js"></script>
 
-    <script src="js/main.js"></script>
+    <script src="{{ site.baseurl }}/js/main.js"></script>
      <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
       (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
