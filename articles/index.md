@@ -12,13 +12,13 @@ As the development of this site progresses, this area will contain articles whic
 * Abstracts of books published by DCP
     * [Concerning Spiritual Authority]({{ site.baseurl }}/articles/Concerning%20Spiritual%20Authority.pdf) (An abstract of the article "Properly Discerning Spiritual Authority to Rightly Follow the Lord" and of the corresponding book in the series A Faithful Word)
 * Applicable articles from A Faithful Word
-    * [The Scriptural Basis of One Publication]({{ site.baseurl }}/articles/scriptural)
-    * [Blending and the Leadership in the Ministry in the Lord's Recovery]({{ site.baseurl }}/articles/blending)
-    * [Regions of the Work and Companies of Workers]({{ site.baseurl }}/articles/regions-companies)
-    * [Properly Discerning Spiritual Authority to Rightly Follow the Lord]({{ site.baseurl }}/articles/discerning-authority)
-    * [Attacks on LSM]({{ site.baseurl }}/articles/attacks-on-LSM)
-    * [The Heresy of Division]({{ site.baseurl }}/articles/division-as-heresy)
-    * [On Holding the Head and Interpretational Differences]({{ site.baseurl }}/articles/different-interpretations)
-    * [The Vision of the Age, the Ministry of the Age, and the Minister of the Age]({{ site.baseurl }}/articles/vision-ministry-minister)
-    * [The God-ordained Way to Gain Increase for the Church]({{ site.baseurl }}/articles/increase)
+    * [The Scriptural Basis of One Publication](http://www.afaithfulword.org/articles/Scriptural.html)
+    * [Blending and the Leadership in the Ministry in the Lord's Recovery](http://www.afaithfulword.org/articles/Blending.html)
+    * [Regions of the Work and Companies of Workers](http://www.afaithfulword.org/articles/RegionsCompanies.html)
+    * [Properly Discerning Spiritual Authority to Rightly Follow the Lord](http://www.afaithfulword.org/articles/DiscerningAuthority.html)
+    * [Attacks on LSM](http://www.afaithfulword.org/articles/AttacksOnLSM.html)
+    * [The Heresy of Division](http://www.afaithfulword.org/articles/DivisionAsHeresy.html)
+    * [On Holding the Head and Interpretational Differences](http://www.afaithfulword.org/articles/DiffInterp.html)
+    * [The Vision of the Age, the Ministry of the Age, and the Minister of the Age](http://www.afaithfulword.org/articles/VisionMinistryMinister.html)
+    * [The God-ordained Way to Gain Increase for the Church](http://www.afaithfulword.org/articles/Increase.html)
 * [Books]({{ site.baseurl }}/ebooks) from the series A Faithful Word
