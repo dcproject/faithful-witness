@@ -29,6 +29,6 @@ Although the books below were published in the series "A Faithful Word," they co
 
 ### Using these files
 
-These files are set up with a page size of 5.5" x 8.5". The electronic versions can be taken to a digital or offset printer as is to print and bind in booklet form. To request access to the book covers for printing, please contact us at:
+These files are set up with a page size of 5.5" x 8.5". The electronic versions can be taken to a digital or offset printer as is to print and bind in booklet form. To request access to the book covers for printing, please contact us at: <a href="mailto:info@afaithfulwitness.org">info@afaithfulwitness.org</a>
 
 If you print these files using default settings, they will print centered on the page with wide margins. To print these files two to a page (but not in bookfold format), select "Multiple pages per sheet" on the pulldown menu for "Page scaling" on the Print dialog box. This should change "Pages per sheet" to 2.
