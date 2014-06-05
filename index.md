@@ -16,7 +16,7 @@ This site contains [the letter of warning issued by the co-workers in the Lord's
 * [Reports]({{ site.baseurl }}/reports) of problems caused by Brother Dong's work in various places.
 * [Documents]({{ site.baseurl }}/documents) related to the problems caused by Brother Dong's work.
 * Errant [teachings]({{ site.baseurl }}/teachings) in the ministry of Dong Yu Lan.
-* [Excerpts]({{ site.baseurl }}/excerpts) from the ministry of Watchman Nee and Witness Lee that pertain to the present situation in the Lord's recovery.
+* [Excerpts]({{ site.baseurl }}/ministry) from the ministry of Watchman Nee and Witness Lee that pertain to the present situation in the Lord's recovery.
 
 We present the materials on this site to the saints in the Lord's recovery that they may realize the seriousness of the deviations in and turn away from Brother Dong's work and those who promote it. May the Lord have mercy on us all that we would take the way of practicing the oneness and the one accord to be preserved in His unique recovery for the building up of the Body of Christ in preparation for His soon return.
 
