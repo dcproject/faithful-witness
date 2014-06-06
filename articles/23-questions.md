@@ -1,5 +1,6 @@
 ---
 layout: default
+section: articles
 ---
 
 ## Answers to 23 Questions Posted on the Internet and Circulated in South America1

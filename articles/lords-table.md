@@ -1,5 +1,6 @@
 ---
 layout: default
+section: articles
 ---
 
 ## Principles Concerning the Lord's Table in View of the Oneness of the Body of Christ

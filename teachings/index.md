@@ -1,5 +1,6 @@
 ---
 layout: default
+section: teachings
 ---
 
 ## Deviations from the Truth in the Teachings of Dong Yu Lan

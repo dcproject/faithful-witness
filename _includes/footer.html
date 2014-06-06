@@ -29,6 +29,16 @@
     <script src="{{ site.baseurl }}/js/vendor/bootstrap.min.js"></script>
 
     <script src="{{ site.baseurl }}/js/main.js"></script>
+    
+    {% if "home warnings reports documents teachings articles excerpts" contains page.section %}
+    <script>
+      $(document).ready(function() {
+        $("#navbar #{{ page.section }}").addClass("active");
+      });
+
+    </script>
+    {% endif %}
+
      <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
       (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=

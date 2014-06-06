@@ -1,5 +1,6 @@
 ---
 layout: default
+section: articles
 ---
 
 ## A Clarifying Word Concerning Brother Lee's Last Public Speaking
