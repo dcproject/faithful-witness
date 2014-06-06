@@ -5,6 +5,11 @@ description: "This site contains the letter of warning issued by the co-workers 
 baseurl: "/faithful-witness"
 url: "http://afaithfulwitness.org"
 
+# static file storage
+pdf: "/pdf"
+audio: "/mp3"
+video: "/video"
+
 # Build settings
 markdown: kramdown
 permalink: pretty

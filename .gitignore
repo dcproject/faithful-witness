@@ -1,4 +1,5 @@
 _site/
 reference/
 .DS_Store
-.pdf
+*.pdf
+/pdf
