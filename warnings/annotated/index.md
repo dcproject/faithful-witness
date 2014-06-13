@@ -170,6 +170,7 @@ On behalf of the co-workers in the Lord's recovery.
 
 {% for note in site.annotations %}
 
-[^{{ note.ref }}]: {{ note.content| indent:4 }}
+[^{{ note.ref }}]: <h5><strong>{{ note.title }}</strong></h5>
+    {{ note.content | indent:4 | append: "<br><small>Return to text</small>"}}
 
 {% endfor %}
