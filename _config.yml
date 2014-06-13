@@ -13,3 +13,9 @@ video: "/video"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+# collections
+collections:
+    annotations:
+        output: true
