@@ -170,6 +170,6 @@ On behalf of the co-workers in the Lord's recovery.
 
 {% for note in site.annotations %}
 
-[^{{ note.ref }}]: {{ note.content }}
+[^{{ note.ref }}]: {{ note.content| indent:4 }}
 
 {% endfor %}
