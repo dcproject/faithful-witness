@@ -5,6 +5,21 @@ section: warnings
 
 ## LETTER OF FELLOWSHIP AND WARNING
 
+<div class="panel panel-warning">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+          Explanatory Notes
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in">
+      <div class="panel-body">
+        This is an annotated version of the co-workers letter of fellowship to the churches. There are many footnotes that contain additional text, audio, or video excerpts. 
+      </div>
+    </div>
+  </div>
+
 <p class="lead pull-right">April 4, 2009</p>
 
 <dl class="dl-horizontal">
