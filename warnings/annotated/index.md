@@ -3,22 +3,37 @@ layout: default
 section: warnings
 ---
 
-## LETTER OF FELLOWSHIP AND WARNING
-
 <div class="panel panel-warning">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          Explanatory Notes
+        <a data-toggle="collapse" data-parent="#accordion" href="#explanatory-notes">
+          Explanatory Notes <span class="caret"></span>
         </a>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse in">
+    <div id="explanatory-notes" class="panel-collapse collapse">
       <div class="panel-body">
-        This is an annotated version of the co-workers letter of fellowship to the churches. There are many footnotes that contain additional text, audio, or video excerpts. 
+        <p>This document is an annotated version of the co-workers' "Letter of Fellowship and Warning" dated April 4, 2009. It provides supporting documentation which demonstrates the veracity of the statements in that letter. As you review its contents, please note the following:</p>
+        <ul>
+        <li>Note numbers<sup><a class="footnote" href="#">1</a></sup> have been inserted into the co-workers' letter to link the reader to supporting documentation. Clicking on a note reference will bring you to the footnote below that contains documentation of the statement preceding it. Click the <a href="#">↩</a> arrow to return to the text.</li>
+
+        <li>The pages include links to the original sources provided as audio files, flash videos, and documents. If you are unable to view the files, please consider <a href="#">upgrading your browser.</a></li>
+
+        <li>The transcripts of Brother Dong's speaking are based on his words in Chinese and not those of his translators. For that reason, the text on the Web page may not match what a person listening in a language other than Chinese hears on the audio translation.</li>
+
+        <li>In some cases, an audio excerpt may be longer than what is quoted in the text of the Web page. This provides the listener with additional context of the portion quoted.</li>
+
+        <li>The documentation presented includes e-mail correspondence among Brother Dong's co-workers. These e-mails were not solicited or obtained by any electronic subterfuge but were forwarded by third parties concerned about the direction of Brother Dong's work.</li>
+
+        <li>Audio clips from a fellowship among Brother Dong and his co-workers on October 28, 2007, are included on these pages. These audio excerpts are from a file that was initially posted on a public Web site promoting Brother Dong's work and was downloaded from that location. Ezra Ma subsequently accused a brother of obtaining it through improper means, but that accusation is false.</li>
+
+        <li>The documentation provided here emphasizes what was spoken or written prior to the issuing of the co-workers' letter of warning. There have been many later developments which reinforce the need for the co-workers' warning concerning the ministry and work of Brother Dong and his co-workers. These will be addressed separately as time and resources permit.</li>
+        </ul>
       </div>
     </div>
   </div>
+
+## LETTER OF FELLOWSHIP AND WARNING
 
 <p class="lead pull-right">April 4, 2009</p>
 
