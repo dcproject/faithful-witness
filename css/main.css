@@ -16,3 +16,22 @@ dt, dd {
 .label {
     margin: 3px;
 }
+
+.footnote {
+    display: inline-block;
+    padding: 3px 5px;
+    font-weight: bold;
+    line-height: 0.75;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    background-color: #999;
+    border-radius: 10px;
+}
+
+.footnote:hover {
+    color: #fff;
+    background-color: #428BCA;
+    text-decoration: none;
+}
