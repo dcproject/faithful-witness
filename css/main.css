@@ -35,3 +35,7 @@ dt, dd {
     background-color: #428BCA;
     text-decoration: none;
 }
+
+li {
+    margin: 3px;
+}
